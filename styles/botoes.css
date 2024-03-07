@@ -1,0 +1,23 @@
+.btn-primario{
+    border: none;
+    background: var(--cor-primaria);
+    color: var(--branco);
+  }
+  .btn-secundario{
+    border: none;
+    background: var(--cor-secundaria);
+    color: var(--branco);
+  }
+  
+  .btn-terciario{
+    background: var(--branco);
+    border: 1px solid var(--cinza);
+  }
+
+  .botao-flutuante{
+    /*display: inline-block;
+    padding: 0.8rem 1.2rem;
+    background-color: var(--cor-primaria);
+    border-radius: 50%;*/
+
+  }
